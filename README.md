@@ -1,12 +1,20 @@
-# Local-File-Inclusion With Perl
-Windows<br>
-Kalian perlu menginstall perl<br>
-(pilih sesuai laptop atau pc kalian 32bit or 64bit)<br>
-Lalu buka CMD kalian dan arahkan sesuai direktori file kalian<br>
-dan jalankan toolsnya Perl LFI.pl or LFI.pl<br>
+# Local File Inclusion Perl
+[![Version](https://img.shields.io/badge/Local_File_Inclusion-Perl-blue.svg)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-green.svg)]()
+[![Build](https://img.shields.io/badge/OS_Supported-Windows-orange.svg)]()
+[![Build](https://img.shields.io/badge/OS_Supported-Linux-lightgrey.svg)]()
 
-Linux<br>
-$ su<br>
-$ cd /(Sesuai direktori file kalian)<br>
-$ git clone link <br>
-$ Perl LFI.pl<br>
+Is a tool for scanning Local File Inclusion
+
+---
+## Install In Windows
+- ```Kalian perlu menginstall perl```
+- ```(pilih sesuai laptop atau pc kalian 32bit or 64bit)```
+- ```Lalu buka CMD kalian dan arahkan sesuai direktori file kalian```
+- ```Dan jalankan toolsnya Perl LFI.pl or LFI.pl```
+
+## Install In Linux<br>
+- ``` $ su```
+- ``` $ cd /(Sesuai direktori file kalian)```
+- ``` $ git clone link```
+- ``` $ Perl LFI.pl```
