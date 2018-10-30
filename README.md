@@ -1,5 +1,5 @@
 # Local File Inclusion Perl
-[![Version](https://img.shields.io/badge/Local_File_Inclusion-Perl-blue.svg)]()
+[![Version](https://img.shields.io/badge/Local_File_Inclusion-Perl-0298c3.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-green.svg)]()
 [![Build](https://img.shields.io/badge/OS_Supported-Windows-orange.svg)]()
 [![Build](https://img.shields.io/badge/OS_Supported-Linux-lightgrey.svg)]()
